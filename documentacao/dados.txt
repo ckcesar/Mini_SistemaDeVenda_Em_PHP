@@ -1,0 +1,10 @@
+Em primeiro lugar entrar no arquivo script.js e mudar a url la dentro, para a url do seu projeto.
+
+Para testar o projeto é só acessar com o login e senha:
+
+login: ckcesaraugusto@gmail.com
+senha: teste
+
+-------------------------------------------------------------------
+
+Esse é uma base de um sistema de venda de produtos, mais ja da para tirar uma grande noção de como funciona a lógica.
